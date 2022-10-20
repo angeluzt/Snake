@@ -1,1 +1,2 @@
-# Snake
+# Tetris
+Tetris Game
